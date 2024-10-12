@@ -8,14 +8,14 @@ StudySync is a mobile app that helps students sync their study sessions, schedul
 - Task Management
 - Real-time Notifications
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/studysync.git
    cd studysync
 
-### Contributions
+## Contributions
 
 All issues should be created from the project board. Each issue should include:
 
