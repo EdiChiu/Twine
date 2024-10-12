@@ -24,8 +24,6 @@ A checklist of tasks that need to be completed.
 Assignee (the lead developer working on the issue)
 Labels (e.g., bug, enhancement, etc.)
 Status (should be To Do when first created)
-Milestone (e.g., Phase 3, Phase 4, etc.)
-Repository (uvsamidwest-app)
 Due Date (if applicable)
 
 Once you have completed your work, you can create a pull request to merge your work branch into the main branch. Each pull request should include:
