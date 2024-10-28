@@ -1,4 +1,4 @@
-# StudySync
+# Twine
 
 StudySync is a mobile app that helps students sync their study sessions, schedule events, and track tasks with ease.
 
@@ -12,7 +12,7 @@ StudySync is a mobile app that helps students sync their study sessions, schedul
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/studysync.git
+   git clone https://github.com/your-username/twine.git
    cd studysync
 
 ## Contributions
